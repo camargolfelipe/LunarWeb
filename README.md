@@ -1,6 +1,6 @@
 # Lunar APP
 
-Um simples projeto
+Um simples projeto front-end
 
 
 
