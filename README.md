@@ -1,7 +1,6 @@
 # Lunar APP
 
-Um simples projeto front-end
-
+Um simples projeto front-end usando Flutter Web
 
 ### 💻  Requirements:
 
