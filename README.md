@@ -1,4 +1,4 @@
-# Lunar APP
+# Lunar WEB
 
 Um simples projeto front-end usando Flutter Web
 
